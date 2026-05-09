@@ -1,22 +1,22 @@
 # Basic Information 
-title: Minhak Song
-title_KR: 송민학
-position: Undergraduate Student
+title: Yeseul Cho
+title_KR: 조예슬
+position: M.S. Student
 affiliation: KAIST
-email: minhaksong (at) kaist.ac.kr
+email: cyseul (at) kaist.ac.kr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Minhak Song, 송민학, KAIST, Undergraduate Student, Machine Learning, Deep Learning, Reinforcement Learning, Optimization, Statistics
-description: Minhak Song is an underduate student at KAIST, interested in building the theoretical foundations of machine learning, deep learning, and reinforcement learning through the lens of optimization theory and statistics.
-canonical: https://songminhak.github.io
+keywords: Yeseul Cho, 조예슬, KAIST, Master's Student, Machine Learning, Deep Learning, Dataset Pruning, Coreset Selection, Data-Efficient Machine Learning
+description: research intersts
+canonical: https://cyseul.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=9Aagu58AAAAJ&hl
-cv_link: assets/files/cv_minhak-song.pdf
-linkedin: https://www.linkedin.com/in/minhak-song/
-twitter: https://x.com/MinhakSong
+google_scholar: https://scholar.google.com/citations?user=B3mRe4cAAAAJ&hl=ko
+cv_link: assets/files/cv_yscho.pdf
+linkedin: https://www.linkedin.com/in/cyseul/
+twitter: https://x.com/cyseull
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -38,7 +38,7 @@ font: "Serif" # "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: G-W5X5XPHFXZ  # UA-111540567-4
+# google_analytics: G-W5X5XPHFXZ  # UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
