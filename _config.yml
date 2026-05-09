@@ -8,8 +8,11 @@ email: cyseul (at) kaist.ac.kr
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yeseul Cho, 조예슬, KAIST, Master's Student, Machine Learning, Deep Learning, Dataset Pruning, Coreset Selection, Data-Efficient Machine Learning
-description: research intersts
+description: "Yeseul Cho is an M.S. student at KAIST working on machine learning, dataset pruning, and data-efficient learning."
 canonical: https://cyseul.github.io
+url: "https://cyseul.github.io"
+baseurl: ""
+canonical: "https://cyseul.github.io"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
