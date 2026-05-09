@@ -2,5 +2,5 @@ main:
   - title: "Lightweight Dataset Pruning without Full Training via Example Difficulty and Prediction Uncertainty"
     authors: <strong>Yeseul Cho*</strong>, Baekrok Shin*, Changmin Kang, Chulhee Yun
     conference: International Conference on Machine Learning <strong>(ICML)</strong> 2025
-    workshop: <strong>ICLR 2025 Workshop</strong> on Navigating and Addressing Data Problems for Foundation Models </strong>
+    workshop: <strong>ICLR 2025 Workshop</strong> on Navigating and Addressing Data Problems for Foundation Models
     arxiv: https://arxiv.org/abs/2502.06905
