@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 ## About Me
+
 Hi! I am a master's student at the [Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/), where I am fortunate to be advised by [Chulhee Yun](https://chulheeyun.github.io/).
 
 My research broadly focuses on the foundations of deep learning, with an emphasis on bridging theory and practice. I am particularly interested in understanding the training and adaptation dynamics of modern neural networks, and in using these insights to design more principled and efficient learning algorithms.
