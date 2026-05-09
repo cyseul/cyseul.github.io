@@ -7,7 +7,7 @@ Hi! I am a master's student at the [Kim Jaechul Graduate School of AI](https://g
 
 My research broadly focuses on the foundations of deep learning, with an emphasis on bridging theory and practice. I am particularly interested in understanding the training and adaptation dynamics of modern neural networks, and in using these insights to design more principled and efficient learning algorithms.
 
-Recently, my work has centered on data-centric and model-centric approaches for efficient deep learning, including dataset pruning, model merging, and machine unlearning. I am also interested in the optimization dynamics of language models, especially how pre-training and post-training shape model behavior and downstream adaptability.
+Recently, my work has centered on data-centric and model-centric approaches for efficient deep learning, including dataset pruning and model merging. I am also interested in the optimization dynamics of language models, especially how pre-training and post-training shape model behavior and downstream adaptability.
 
 <!-- **Update:** Starting in Fall 2026, I will join [Stanford University](https://www.stanford.edu/) as a PhD student in [Computer Science](https://www.cs.stanford.edu/), supported by the Stanford School of Engineering Fellowship -->
 
