@@ -17,7 +17,7 @@ Recently, I have been working on dataset pruning and model merging. More broadly
 - **Efficient Model Adaptation**
 
 ## News
-- **[Jan. 2025]** Our [paper](https://arxiv.org/abs/2502.06905) on dataset pruning under supervised learning is accepted to **ICML 2025**
+- **[Jul. 2025]** Our [paper](https://arxiv.org/abs/2502.06905) on dataset pruning under supervised learning is accepted to **ICML 2025**
 
 {% include_relative _includes/publications.md %}
 
