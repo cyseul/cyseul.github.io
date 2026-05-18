@@ -13,8 +13,8 @@ Recently, I have been working on dataset pruning and model merging. More broadly
 <!-- **Update:** Starting in Fall 2026, I will join [Stanford University](https://www.stanford.edu/) as a PhD student in [Computer Science](https://www.cs.stanford.edu/), supported by the Stanford School of Engineering Fellowship -->
 
 ## Research Interests
-- **Data-Centric Deep Learning**
-- **Efficient Model Adaptation**
+- **Data-Efficient Deep Learning**
+- **Efficient Model Adaptation (e.g. Model Merging)**
 
 ## News
 - **[May. 2025]** Our [paper](https://arxiv.org/abs/2502.06905) on dataset pruning under supervised learning is accepted to **ICML 2025**
