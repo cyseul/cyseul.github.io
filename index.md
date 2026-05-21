@@ -18,7 +18,7 @@ Recently, I have been working on dataset pruning and model merging. More broadly
 
 
 ## Education
-- M.S. in Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST), Sep. 2024 - Current
+- M.S. in Artificial Intelligence, KAIST, Sep. 2024 - Current
 - B.S. in Biomedical Engineering, Korea University, Mar. 2020 - Aug. 2024
 
 ## News
