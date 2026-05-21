@@ -4,8 +4,7 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong> 2025
     workshop: <strong>ICLR 2025 Workshop</strong> on Navigating and Addressing Data Problems for Foundation Models
     arxiv: https://arxiv.org/abs/2502.06905
-
-main:
+    
   - title: "Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization"
     authors: Changmin Kang, Jihun Yun, Baekrok Shin, <strong>Yeseul Cho</strong>, Chulhee Yun
     conference:
