@@ -1,12 +1,12 @@
 main:
-  - title: "Lightweight Dataset Pruning without Full Training via Example Difficulty and Prediction Uncertainty"
-    authors: <strong>Yeseul Cho*</strong>, Baekrok Shin*, Changmin Kang, Chulhee Yun
-    conference: <strong>ICML 2025</strong>
-    workshop: <strong>ICLR 2025 Workshop</strong> on Navigating and Addressing Data Problems for Foundation Models
-    arxiv: https://arxiv.org/abs/2502.06905
-
   - title: "Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization"
     authors: Changmin Kang, Jihun Yun, Baekrok Shin, <strong>Yeseul Cho</strong>, Chulhee Yun
     conference:
     workshop: ArXiv Preprint
     arxiv: https://arxiv.org/abs/2602.06385
+
+  - title: "Lightweight Dataset Pruning without Full Training via Example Difficulty and Prediction Uncertainty"
+    authors: <strong>Yeseul Cho*</strong>, Baekrok Shin*, Changmin Kang, Chulhee Yun
+    conference: <strong>ICML 2025</strong>
+    workshop: <strong>ICLR 2025 Workshop</strong> on Navigating and Addressing Data Problems for Foundation Models
+    arxiv: https://arxiv.org/abs/2502.06905
