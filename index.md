@@ -15,7 +15,11 @@ Recently, I have been working on dataset pruning and model merging. More broadly
 ## Research Interests
 - **Data-Efficient Deep Learning**
 - **Model Merging and Adaptation**
-- **Training Dynamics of Language Models**
+
+
+## Education
+- M.S. Student in Ai, Korea Advanced Institute of Science and Technology (KAIST), Sep. 2024 - Current
+- B.S. Student in Biomedical Engineering, Korea University, Mar. 2020 - Aug. 2024
 
 ## News
 - **[May. 2025]** Our [paper](https://arxiv.org/abs/2502.06905) on dataset pruning under supervised learning is accepted to **ICML 2025**
