@@ -1,6 +1,6 @@
 main:
   - title: "Label-Efficient Dataset Pruning via Semi-Supervised Pseudo-Labeling"
-    authors: Yeseul Cho, Baekrok Shin, Changmin Kang, Chulhee Yun
+    authors: <strong>Yeseul Cho</strong>, Baekrok Shin, Changmin Kang, Chulhee Yun
     conference:
     workshop: ArXiv Preprint
     arxiv: https://arxiv.org/abs/2605.23198
