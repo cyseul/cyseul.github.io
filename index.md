@@ -10,7 +10,6 @@ My research interests lie in the foundations of deep learning, with a focus on u
 
 Recently, I have been working on dataset pruning and model merging. More broadly, I am also interested in the optimization dynamics of language models, especially how pre-training and post-training shape model behavior and downstream adaptability.
 
-<!-- **Update:** Starting in Fall 2026, I will join [Stanford University](https://www.stanford.edu/) as a PhD student in [Computer Science](https://www.cs.stanford.edu/), supported by the Stanford School of Engineering Fellowship -->
 
 ## Research Interests
 - **Data-Efficient Deep Learning**
