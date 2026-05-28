@@ -8,7 +8,7 @@ main:
   - title: "Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization"
     authors: Changmin Kang, Jihun Yun, Baekrok Shin, <strong>Yeseul Cho</strong>, Chulhee Yun
     conference: 
-    workshop: <strong>ICML 2026 Workshop</strong> on High-dimensional Learning Dynamics (HiLD)$:$ Scaling laws
+    workshop: <strong>ICML 2026 Workshop</strong> on High-dimensional Learning Dynamics (HiLD)
     arxiv: https://arxiv.org/abs/2602.06385
 
   - title: "Lightweight Dataset Pruning without Full Training via Example Difficulty and Prediction Uncertainty"
