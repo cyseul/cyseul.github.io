@@ -361,7 +361,20 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
+  top:0;
+  bottom:0;
+  background:#f7f8fa;
+  box-shadow:-100vw 0 0 #f7f8fa;
+  border-right:1px solid #e6e8eb;
+}
+
+@media (prefers-color-scheme: dark) {
+  header {
+    background:#262733;
+    box-shadow:-100vw 0 0 #262733;
+    border-right:1px solid #343544;
+  }
 }
 
 
@@ -478,6 +491,9 @@ footer {
 
   header {
     padding-right:320px;
+    /* the full-height rail is desktop-only; header is static here */
+    box-shadow:none;
+    border-right:0;
   }
 
   section {
