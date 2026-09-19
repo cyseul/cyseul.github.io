@@ -13,7 +13,8 @@ Going forward, I am particularly interested in understanding the optimization dy
 ## Research Interests
 
 * **Data-Centric Learning**
-* **Optimization**
+* **Optimization & Training Dynamics**
+* **Inference Optimization**
 
 
 ## Education
