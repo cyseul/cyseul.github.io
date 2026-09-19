@@ -6,14 +6,14 @@ layout: homepage
 
 Hi! I am an AI Engineer Intern at [Nota AI](https://www.nota.ai). I received my master's degree from the [Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/), where I was fortunate to be advised by [Chulhee Yun](https://chulheeyun.github.io/).
 
-My research interests broadly lie in understanding and improving the training of modern neural networks, particularly large language models. My previous work has focused on data selection, and I have also explored problems involving the adaptation and modification of trained models, including model merging and machine unlearning.
+My research interests broadly lie in understanding and improving modern neural networks, with a particular focus on large language models. My previous work has explored data selection and pruning, as well as the adaptation and modification of trained models through problems such as model merging and machine unlearning.
 
-Going forward, I am interested in understanding how training data shapes optimization dynamics. In particular, I am interested in how the amount and timing of high-quality data affect language model pre-training, and how the efficiency and behavior of different optimizers change with batch size and training scale.
+Going forward, I am particularly interested in understanding the optimization dynamics that arise during large language model training, including how data, optimization algorithms, and training scale interact. I am also interested in optimizing models for inference, with the broader goal of improving how large-scale models are trained and deployed.
 
 ## Research Interests
-- **Data-Efficient Deep Learning**
-- **Model Adaptation**
-- **Optimization**
+
+* **Data-Centric Learning**
+* **Optimization**
 
 
 ## Education
