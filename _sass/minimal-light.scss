@@ -365,14 +365,14 @@ header {
   top:0;
   bottom:0;
   background:#efeae3;
-  box-shadow:-100vw 0 0 #efeae3;
+  box-shadow:-100vw 0 0 100vw #efeae3;
   border-right:1px solid #e0d9cf;
 }
 
 @media (prefers-color-scheme: dark) {
   header {
     background:#262733;
-    box-shadow:-100vw 0 0 #262733;
+    box-shadow:-100vw 0 0 100vw #262733;
     border-right:1px solid #343544;
   }
 }
