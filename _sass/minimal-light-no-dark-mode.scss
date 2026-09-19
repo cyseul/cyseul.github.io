@@ -283,16 +283,19 @@ img {
 }
 
 header {
-  width:232px;
+  /* the rail is the left wall: anchored to the viewport edge, running to
+     where the 232px column used to end (wrapper gutter + 232 = 50vw - 248) */
+  width:calc(50vw - 248px);
+  min-width:232px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
   text-align:center;
   top:0;
+  left:0;
   bottom:0;
   background:#efeae3;
-  box-shadow:-100vw 0 0 100vw #efeae3;
   border-right:1px solid #e0d9cf;
 }
 
@@ -376,9 +379,11 @@ hr {
 }
 
 footer {
-  width:232px;
+  width:calc(50vw - 248px);
+  min-width:232px;
   float:left;
   position:fixed;
+  left:0;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
