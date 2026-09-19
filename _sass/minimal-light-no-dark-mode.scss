@@ -287,7 +287,7 @@ header {
      where the 232px column used to end (wrapper gutter + 232 = 50vw - 248) */
   width:calc(50vw - 248px);
   min-width:232px;
-  max-width:320px;
+  max-width:360px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -382,7 +382,7 @@ hr {
 footer {
   width:calc(50vw - 248px);
   min-width:232px;
-  max-width:320px;
+  max-width:360px;
   float:left;
   position:fixed;
   left:0;
@@ -407,6 +407,9 @@ footer {
     float:none;
     position:static;
     width:auto;
+    /* release the desktop rail's width clamp so the header spans the top */
+    min-width:0;
+    max-width:none;
   }
 
   header {
