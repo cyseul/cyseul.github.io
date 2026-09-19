@@ -7,7 +7,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#453a30!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -116,7 +116,7 @@ email {
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  color:#6f665c;
 }
 
 lightonly {
@@ -183,18 +183,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#453a30;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#453a30;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#453a30;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -213,23 +213,23 @@ h1 {
 }
 
 a {
-  color:#2c6ea3;
+  color:#7d5f45;
   text-decoration:none;
 }
 
 a:hover {
-  color:#1a4d75;
+  color:#56402c;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#78706a;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#78706a;
 }
 
 .wrapper {
@@ -238,7 +238,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid #e5ded4;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -252,9 +252,9 @@ code, pre {
 pre {
   max-width:500px;
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #f3efe8;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #e5ded4;
   overflow-x: auto;
 }
 
@@ -266,7 +266,7 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #e5ded4;
 }
 
 dt {
@@ -291,9 +291,9 @@ header {
   text-align:center;
   top:0;
   bottom:0;
-  background:#eef1f5;
-  box-shadow:-100vw 0 0 #eef1f5;
-  border-right:1px solid #dfe3e9;
+  background:#efeae3;
+  box-shadow:-100vw 0 0 #efeae3;
+  border-right:1px solid #e0d9cf;
 }
 
 
@@ -342,7 +342,7 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
+  color:#2f2a25;
   font-weight:500;
 }
 
@@ -354,7 +354,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:#2f2a25;
 }
 
 section {
@@ -370,7 +370,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#e5ded4;
   height:1px;
   margin:0 0 20px;
 }
@@ -410,7 +410,7 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid #e5ded4;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
