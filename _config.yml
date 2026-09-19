@@ -27,7 +27,7 @@ avatar: ./assets/img/avatar.jpg
 # Link preview thumbnail (Open Graph). 1200x630 recommended.
 # If you replace the photo, ALSO rename this file (e.g. og-image-v2.jpg) --
 # messengers cache previews by URL, so the old thumbnail sticks otherwise.
-og_image: /assets/img/og-image.jpg
+og_image: /assets/img/og-image-v2.jpg
 favicon: /assets/img/icon-yc.png
 favicon_dark: /assets/img/icon-yc-dark.png
 
