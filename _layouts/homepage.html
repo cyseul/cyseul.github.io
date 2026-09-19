@@ -14,6 +14,32 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
+    <!-- Open Graph / link previews (KakaoTalk, Slack, Facebook, ...) -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
+    <meta property="og:locale" content="en_US">
+    {% if site.og_image %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.og_image }}">
+    <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}{{ site.og_image }}">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="{{ site.title }} — {{ site.position }}, {{ site.affiliation }}">
+    {% endif %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% if site.og_image %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.og_image }}">
+    {% endif %}
+    {% if site.twitter %}
+    <meta name="twitter:creator" content="@{{ site.twitter | split: '/' | last }}">
+    {% endif %}
+
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="icon" type="image/png" href="{{ site.favicon }}" />
     <link rel="apple-touch-icon" href="{{ site.favicon }}" />

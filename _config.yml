@@ -23,6 +23,11 @@ twitter: https://x.com/cyseull
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
+
+# Link preview thumbnail (Open Graph). 1200x630 recommended.
+# If you replace the photo, ALSO rename this file (e.g. og-image-v2.jpg) --
+# messengers cache previews by URL, so the old thumbnail sticks otherwise.
+og_image: /assets/img/og-image.jpg
 favicon: /assets/img/icon-yc.png
 favicon_dark: /assets/img/icon-yc-dark.png
 
