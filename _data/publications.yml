@@ -1,8 +1,7 @@
 main:
   - title: "Label-Efficient Dataset Pruning via Semi-Supervised Pseudo-Labeling"
     authors: <strong>Yeseul Cho</strong>, Baekrok Shin, Changmin Kang, Chulhee Yun
-    conference:
-    workshop: ArXiv Preprint
+    conference: <strong>NeurIPS 2026</strong>
     arxiv: https://arxiv.org/abs/2605.23198
 
   - title: "Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization"
