@@ -6,7 +6,7 @@ main:
 
   - title: "Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization"
     authors: Changmin Kang, Jihun Yun, Baekrok Shin, <strong>Yeseul Cho</strong>, Chulhee Yun
-    conference: 
+    conference: <strong>NeurIPS 2026</strong>
     workshop: <strong>ICML 2026 Workshop</strong> on High-dimensional Learning Dynamics (HiLD)
     arxiv: https://arxiv.org/abs/2602.06385
 
