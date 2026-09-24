@@ -22,7 +22,7 @@ Going forward, I am particularly interested in understanding the optimization dy
 - B.S. in Biomedical Engineering, Korea University, Mar. 2020 - Aug. 2024
 
 ## News
-- **[Sept. 2026]** Two of our papers, [SemiPrune](https://arxiv.org/abs/2605.23198) and [Uniform Spectral Growth](https://arxiv.org/abs/2602.06385), have been accepted to **NeurIPS 2026**!
+- **[Sept. 2026]** Two of our papers have been accepted to **NeurIPS 2026**!
 - **[Aug. 2026]** I joined [Nota AI](https://www.nota.ai) as an AI Engineer Intern.
 - **[Aug. 2026]** I received my M.S. in Artificial Intelligence from KAIST.
 - **[May. 2025]** Our [paper](https://arxiv.org/abs/2502.06905) on dataset pruning under supervised learning is accepted to **ICML 2025**!
