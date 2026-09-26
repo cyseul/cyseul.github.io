@@ -25,7 +25,7 @@ Going forward, I am particularly interested in understanding the optimization dy
 - **[Sep. 2026]** Two papers ([Label-Efficient Dataset Pruning](https://arxiv.org/abs/2605.23198), [Uniform Spectral Growth of Muon](https://arxiv.org/abs/2602.06385)) are accepted to **NeurIPS 2026**!
 - **[Aug. 2026]** I joined [Nota AI](https://www.nota.ai) as an AI Engineer Intern.
 - **[Aug. 2026]** I received my M.S. in Artificial Intelligence from KAIST.
-- **[May. 2025]** Our [paper](https://arxiv.org/abs/2502.06905) on dataset pruning under supervised learning is accepted to **ICML 2025**!
+- **[May. 2025]** Our paper ([Lightweight Dataset Pruning](https://arxiv.org/abs/2502.06905)) is accepted to **ICML 2025**!
 
 {% include_relative _includes/publications.md %}
 

@@ -1,4 +1,12 @@
 main:
+  - title: "Error-Subspace Calibration for Multi-Task Model Merging"
+    authors: <strong>Yeseul Cho</strong>, Hanseul Cho, Chulhee Yun
+    conference: Manuscript
+
+  - title: "Machine Unlearning with a Destination: Tracking a Minimizer Path to the Retain-Only Objective"
+    authors: Chaewon Moon, <strong>Yeseul Cho</strong>, Chulhee Yun
+    conference: Manuscript
+
   - title: "Label-Efficient Dataset Pruning via Semi-Supervised Pseudo-Labeling"
     authors: <strong>Yeseul Cho</strong>, Baekrok Shin, Changmin Kang, Chulhee Yun
     conference: <strong>NeurIPS 2026</strong>

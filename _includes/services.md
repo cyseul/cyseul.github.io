@@ -4,4 +4,5 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/"><autocolor>NeurIPS 2026</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>ICLR 2027</autocolor></a></li>
 </ul>
