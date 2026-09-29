@@ -22,10 +22,11 @@ Going forward, I am particularly interested in understanding the optimization dy
 - B.S. in Biomedical Engineering, Korea University, Mar. 2020 - Aug. 2024
 
 ## News
-- **[Sep. 2026]** Two papers ([Label-Efficient Dataset Pruning](https://arxiv.org/abs/2605.23198), [Uniform Spectral Growth of Muon](https://arxiv.org/abs/2602.06385)) are accepted to **NeurIPS 2026**!
+- **[Sep. 2026]** Our paper about machine unlearning is accepted to the **NeurIPS 2026 OPT Workshop**!
+- **[Sep. 2026]** Our papers about [label-efficient dataset pruning](https://arxiv.org/abs/2605.23198) and [Muon optimization](https://arxiv.org/abs/2602.06385) are accepted to **NeurIPS 2026**!
 - **[Aug. 2026]** I joined [Nota AI](https://www.nota.ai) as an AI Engineer Intern.
-- **[Aug. 2026]** I received my M.S. in Artificial Intelligence from KAIST.
-- **[May. 2025]** Our paper ([Lightweight Dataset Pruning](https://arxiv.org/abs/2502.06905)) is accepted to **ICML 2025**!
+- **[Aug. 2026]** I earned my M.S. in Artificial Intelligence from KAIST.
+- **[May 2025]** Our paper about [lightweight dataset pruning](https://arxiv.org/abs/2502.06905) is accepted to **ICML 2025**!
 
 {% include_relative _includes/publications.md %}
 
