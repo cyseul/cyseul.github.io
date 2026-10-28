@@ -269,7 +269,8 @@ h1 {
   font-size:28px;
 }
 
-a {
+a,
+.publications .title {
   color:#7d5f45;
   text-decoration:none;
 }
@@ -279,7 +280,8 @@ a:hover {
 }
 
 @media (prefers-color-scheme: dark) {
-  a {
+  a,
+  .publications .title {
     color:rgb(62, 183, 240);
   }
 }
