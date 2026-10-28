@@ -22,12 +22,12 @@ Going forward, I am particularly interested in understanding the optimization dy
 - B.S. in Biomedical Engineering, Korea University, Mar. 2020 - Aug. 2024
 
 ## News
-- **[Oct. 2026]** Our preprint on [Error-Subspace Calibration for Multi-Task Model Merging (ESCal)](https://arxiv.org/abs/2610.33483) is now available on arXiv!
-- **[Sep. 2026]** Our paper about [machine unlearning](https://openreview.net/forum?id=UL8Ww075tB) is accepted to the **NeurIPS 2026 OPT Workshop**!
-- **[Sep. 2026]** Our papers about [label-efficient dataset pruning](https://arxiv.org/abs/2605.23198) and [Muon optimization](https://arxiv.org/abs/2602.06385) are accepted to **NeurIPS 2026**!
+- **[Oct. 2026]** Our preprint on [multi-task model merging (ESCal)](https://arxiv.org/abs/2610.33483) is now available on arXiv!
+- **[Sep. 2026]** Our paper on [machine unlearning](https://openreview.net/forum?id=UL8Ww075tB) is accepted to **NeurIPS 2026 OPT Workshop**!
+- **[Sep. 2026]** Our papers on [label-efficient dataset pruning](https://arxiv.org/abs/2605.23198) and [Muon optimization](https://arxiv.org/abs/2602.06385) are accepted to **NeurIPS 2026**!
 - **[Aug. 2026]** I joined [Nota AI](https://www.nota.ai) as an AI Engineer Intern.
 - **[Aug. 2026]** I earned my M.S. in Artificial Intelligence from KAIST.
-- **[May 2025]** Our paper about [lightweight dataset pruning](https://arxiv.org/abs/2502.06905) is accepted to **ICML 2025**!
+- **[May 2025]** Our paper on [lightweight dataset pruning](https://arxiv.org/abs/2502.06905) is accepted to **ICML 2025**!
 
 {% include_relative _includes/publications.md %}
 
