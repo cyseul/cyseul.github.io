@@ -1,0 +1,20 @@
+# Each entry: date (YYYY-MM-DD, used for the 6-month cutoff), label (shown text), text (HTML).
+# Keep entries newest-first. Entries dated within the last 6 months of the build are shown; older ones go under "Show more".
+- date: 2026-10-01
+  label: Oct. 2026
+  text: Our preprint on <a href="https://arxiv.org/abs/2610.33483">multi-task model merging (ESCal)</a> is now available on arXiv!
+- date: 2026-09-01
+  label: Sep. 2026
+  text: Our paper on <a href="https://openreview.net/forum?id=UL8Ww075tB">machine unlearning</a> is accepted to <strong>NeurIPS 2026 OPT Workshop</strong>!
+- date: 2026-09-01
+  label: Sep. 2026
+  text: Our papers on <a href="https://arxiv.org/abs/2605.23198">label-efficient dataset pruning</a> and <a href="https://arxiv.org/abs/2602.06385">Muon optimization</a> are accepted to <strong>NeurIPS 2026</strong>!
+- date: 2026-08-01
+  label: Aug. 2026
+  text: I joined <a href="https://www.nota.ai">Nota AI</a> as an AI Engineer Intern.
+- date: 2026-08-01
+  label: Aug. 2026
+  text: I earned my M.S. in Artificial Intelligence from KAIST.
+- date: 2025-05-01
+  label: May 2025
+  text: Our paper on <a href="https://arxiv.org/abs/2502.06905">lightweight dataset pruning</a> is accepted to <strong>ICML 2025</strong>!
