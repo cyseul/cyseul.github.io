@@ -9,7 +9,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{% if link.arxiv %}<a href="{{ link.arxiv }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
+      <div class="title">{% if link.arxiv %}<a href="{{ link.arxiv }}">{{ link.title }}</a>{% elsif link.openreview %}<a href="{{ link.openreview }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       {% if link.footnote %} 
       <div class="author">{{ link.footnote }}</div>
@@ -24,6 +24,9 @@
       {% endif %}
       {% if link.arxiv %} 
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      {% endif %}
+      {% if link.openreview %} 
+      <a href="{{ link.openreview }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>

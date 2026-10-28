@@ -7,6 +7,7 @@ main:
   - title: "Machine Unlearning with a Destination: Tracking a Minimizer Path to the Retain-Only Objective"
     authors: Chaewon Moon, <strong>Yeseul Cho</strong>, Chulhee Yun
     conference: <strong>NeurIPS 2026 Workshop</strong> on Optimization for Machine Learning (OPT)
+    openreview: https://openreview.net/forum?id=UL8Ww075tB
 
   - title: "Label-Efficient Dataset Pruning via Semi-Supervised Pseudo-Labeling"
     authors: <strong>Yeseul Cho</strong>, Baekrok Shin, Changmin Kang, Chulhee Yun
