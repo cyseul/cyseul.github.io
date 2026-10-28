@@ -1,4 +1,9 @@
 main:
+  - title: "Error-Subspace Calibration for Multi-Task Model Merging"
+    authors: <strong>Yeseul Cho</strong>, Hanseul Cho, Chulhee Yun
+    conference: arXiv preprint, 2026
+    arxiv: https://arxiv.org/abs/2610.33483
+
   - title: "Machine Unlearning with a Destination: Tracking a Minimizer Path to the Retain-Only Objective"
     authors: Chaewon Moon, <strong>Yeseul Cho</strong>, Chulhee Yun
     conference: <strong>NeurIPS 2026 Workshop</strong> on Optimization for Machine Learning (OPT)
